@@ -1,0 +1,2 @@
+Simple javafx FoodStore software written in java connected to Microsoft sql server database that uses mainly mvc design pattern.
+Having customers and managers where managers can be master(unique) or normal where master is the only one that can add or delete another managers.
